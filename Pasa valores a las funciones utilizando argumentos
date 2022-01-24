@@ -1,0 +1,6 @@
+function functionWithArgs(argumento1, argumento2){
+  console.log(argumento1, argumento2);
+  var resultado = argumento1+argumento2;
+  console.log(resultado);
+}
+functionWithArgs(2,5);
